@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pypack',
+    name='PyPack',
     version='0.1.0',
     description='A collection of tools to simplify your Python experience!',
     long_description=open('README.md').read(),
