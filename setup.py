@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='OlPack',
-    version='0.1.2',
+    version='0.1.3',
     description='A collection of tools to simplify your Python experience!',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
