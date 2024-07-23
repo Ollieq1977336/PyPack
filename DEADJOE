@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Tue Jul 23 08:33:58 2024
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+1 
+
+*** File '(Unnamed)'
+h
+
+*** File '(Unnamed)'
+/home/ollie/Desktop/Projects/PyPack/.git/MERGE_MSG
+
+*** File '/home/ollie/Desktop/Projects/PyPack/.git/MERGE_MSG'
+Merge branch 'main' of https://github.com/Ollieq1977336/PyPack
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+pulling to update local repo
+
+ 
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
