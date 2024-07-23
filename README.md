@@ -1,4 +1,7 @@
-## Requirements
+# QUICK NOTICE
+This isnt uploaded to PyPI, so you'll need to download the code, and do `pip install .`
+
+## PyPack
 
 A collection of tools to simplify your python experience!
 
