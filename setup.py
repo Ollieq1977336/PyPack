@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='PyPack',
-    version='0.1.0',
+    name='OlPack',
+    version='0.1.2',
     description='A collection of tools to simplify your Python experience!',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Ollie Quayle',
+    author_email='Olliequayle08@icloud.com',
     url='https://github.com/Ollieq1977336/PyPack',
     packages=find_packages(),  # Automatically find packages in the directory
     install_requires=[],  # List your dependencies here
@@ -22,5 +22,10 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
+    
+    extras_require={
+        "dev": ["twine>=4.0.2"],
+    },
     python_requires='>=3.6',
+
 )
